@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Jak jsou na tom ženy?"
+title:  "A co ženy?"
 date:   2021-06-01 10:18:10 +0200
 categories:
 ---
