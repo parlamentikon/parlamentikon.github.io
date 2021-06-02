@@ -1,7 +1,8 @@
 ---
 layout: post
-title:  "A co ženy?"
+title:  "A co ty ženy?"
 date:   2021-06-01 10:18:10 +0200
+header-img: "img/2021-06-01-zastoupeni-zen-v-ps-cr.png"
 categories:
 ---
 
