@@ -3,7 +3,7 @@ layout: post
 title:  "A co ty ženy?"
 subtitle: Zastoupení žen v Poslanecké sněmovně
 date:   2021-06-01 10:18:10 +0200
-header-img: "img/2021-06-01-zastoupeni-zen-v-ps-cr-img.png"
+header-img: "img/2021-06-01-zastoupeni-zen-v-ps-cr.v2.png"
 categories:
 ---
 
